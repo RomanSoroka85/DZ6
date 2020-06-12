@@ -6,14 +6,17 @@
 .masthead {
   display: flex;
   justify-content: center;
-  padding: 20px 20px;
+  padding: 20px 0px;
   min-height: 50px;
+  width: 1200px;
+
+  margin: auto;
 }
 .logo {
   font-size: 30px;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
-  margin-right: 500px;
+  margin-right: 430px;
   margin-left: 10px;
   color: #95e1d3;
   cursor: pointer;
